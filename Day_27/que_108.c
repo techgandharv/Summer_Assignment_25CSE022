@@ -49,7 +49,7 @@ int main()
     }
 
     // Printing Marksheet
-
+    
     printf("\nResult:\n");
     for (i = 0; i < n; i++)
     {
